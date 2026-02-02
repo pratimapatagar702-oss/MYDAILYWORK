@@ -1,2 +1,1 @@
-# MYDAILYWORK
-Daily tasks and assignments
+titanic.ipynb
